@@ -4,7 +4,7 @@
 
 This repository showcases the implementation of various image processing techniques on custom images. These techniques have been applied to enhance image quality, extract features, and improve the overall visual appeal of images.
 
-### Implemented Techniques
+### Some of the Implemented Techniques
 
 - Image Negative
   Inverts pixel intensities to enhance visibility and reveal hidden details.
